@@ -54,3 +54,8 @@
   "homepage": "https://github.com/olesiashnn/web2025-5#readme",
   "description": ""
 }
+
+"scripts": {
+  "start": "node server.js",
+  "dev": "nodemon server.js"
+}
